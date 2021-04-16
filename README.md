@@ -39,7 +39,7 @@ The schematic for the chasis is as shown and was cut from stainless steel and be
 ![resizechassis](https://user-images.githubusercontent.com/41803725/114974617-9aa7a500-9e37-11eb-9e3b-d2de7ed3d352.jpg)
 
 After the chasis was built, a test fitting of parts to ensure proper space:
-![testfit](https://user-images.githubusercontent.com/41803725/114974797-ece8c600-9e37-11eb-8a99-7f968ccd8418.jpg)
+![testfit](https://user-images.githubusercontent.com/41803725/114974797-ece8c600-9e37-11eb-8a99-7f968ccd8418.jpg =250x250)
 
 
 Then a wiring diagram was generated for simplication of wiring duty:
