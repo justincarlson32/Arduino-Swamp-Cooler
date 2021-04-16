@@ -36,7 +36,7 @@ The goals and actual implementations of this project were as follows:
 A little more information as to how it was constructed:  
 
 The schematic for the chasis is as shown and was cut from stainless steel and bent into shape:
-![pic](https://user-images.githubusercontent.com/41803725/114960027-1515fc00-9e1b-11eb-8329-2b52fa8d3284.jpg)
+![pic](http://www.simpleimageresizer.com/_uploads/photos/e82838dd/114960027-1515fc00-9e1b-11eb-8329-2b52fa8d3284_75.jpg)
 
 After the chasis was built, a test fitting of parts to ensure proper space:
 ![testfit](https://user-images.githubusercontent.com/41803725/114960696-6d013280-9e1c-11eb-9a74-4340ccf89d4e.jpg)
