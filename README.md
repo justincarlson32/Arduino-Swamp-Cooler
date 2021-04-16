@@ -3,7 +3,7 @@ A fully developed swamp cooler designed, manufactured, and programmed by Justin 
 
 The parts required for this project were:
 
-2 square feet of Stainless Steel
+2 square feet of Stainless Steel\n
 1 5v water pump
 2 5-9v Axial Fans
 1 Arduino MEGA256
