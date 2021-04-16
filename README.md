@@ -38,10 +38,9 @@ A little more information as to how it was constructed:
 The schematic for the chasis is as shown and was cut from stainless steel and bent into shape:
 ![resizechassis](https://user-images.githubusercontent.com/41803725/114974617-9aa7a500-9e37-11eb-9e3b-d2de7ed3d352.jpg)
 
-
-
 After the chasis was built, a test fitting of parts to ensure proper space:
-![testfit](https://user-images.githubusercontent.com/41803725/114960696-6d013280-9e1c-11eb-9a74-4340ccf89d4e.jpg)
+![testfit](https://user-images.githubusercontent.com/41803725/114974797-ece8c600-9e37-11eb-8a99-7f968ccd8418.jpg)
+
 
 Then a wiring diagram was generated for simplication of wiring duty:
 ![pinout](https://user-images.githubusercontent.com/41803725/114960010-0f201b00-9e1b-11eb-8f09-b9177ead9bc5.png)
