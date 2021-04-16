@@ -1,5 +1,5 @@
 # Arduino-Swamp-Cooler
-A fully developed swamp cooler designed, manufactured, and programmed by Justin Carlson for Computer Engineering 301.
+A fully developed swamp cooler designed, manufactured, and programmed by Justin Carlson & Steven Berry for Computer Engineering 301.
 
 The parts required for this project were:
 
